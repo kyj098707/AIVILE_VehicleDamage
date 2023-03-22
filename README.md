@@ -1,12 +1,9 @@
 # 차량공유업체의 차량 파손여부 분류 프로젝트
 ## 11반 42조 맴버
-김윤종 : https://github.com/kyj098707
-<br>박경덕 : https://github.com/Ramdatech
-<br>황소정 : https://github.com/sora0319
-<br>김채원 : https://github.com/chaewon0824
-<br>강선후 : https://github.com/rkdwhdrjf
-<br>정정해 : https://github.com/JeongJeonghae
-<br>오승권 : https://github.com/loveand30
+| [<img src="https://avatars.githubusercontent.com/u/54027397?v=4" width="96px;"/><br><sup>김윤종</sup>](https://github.com/kyj098707)<br><a href="https://github.com/kyj098707"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="20" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/62131378?v=4" width="96px;"/><br><sup>박경덕</sup>](https://github.com/Ramdatech)<br><a href="https://github.com/Ramdatech"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="20" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/68092600?v=4" width="96px;"/><br><sup>김채원</sup>](https://github.com/chaewon0824)<br><a href="https://github.com/chaewon0824"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="20" title="GitHub" /></a>   | [<img src="https://avatars.githubusercontent.com/u/84492694?v=4" width="96px;"/><br><sup>강선후</sup>](https://github.com/rkdwhdrjf)<br><a href="https://github.com/rkdwhdrjf"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="20" title="GitHub" /></a> | [<img src="https://avatars.githubusercontent.com/u/124108648?v=4" width="96px;"/><br><sup>정정해</sup>](https://github.com/JeongJeonghae)<br><a href="https://github.com/JeongJeonghae"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="20" title="GitHub" /></a>   | [<img src="https://avatars.githubusercontent.com/u/103622865?v=4" width="96px;"/><br><sup>오승권</sup>](https://github.com/loveand30)<br><a href="https://github.com/loveand30"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="20" title="GitHub" /></a>  | [<img src="https://avatars.githubusercontent.com/u/80961826?v=4" width="96px;"/><br><sup>황소정</sup>](https://github.com/sora0319)<br><a href="https://github.com/sora0319"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="20" title="GitHub" /></a>
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+
 ## 개요
 본 프로젝트는 KT AIVLE SCHOOL에서 진행한 차량 파손 여부를 판별하는 모델을 만드는 프로젝트입니다.
 ## 데이터셋
