@@ -1,4 +1,12 @@
 # 차량공유업체의 차량 파손여부 분류 프로젝트
+## 11반 42조 맴버
+김윤종 : https://github.com/kyj098707
+<br>박경덕 : https://github.com/Ramdatech
+<br>황소정 : https://github.com/sora0319
+<br>김채원 : https://github.com/chaewon0824
+<br>강선후 : https://github.com/rkdwhdrjf
+<br>정정해 : https://github.com/JeongJeonghae
+<br>오승권 : https://github.com/loveand30
 ## 개요
 본 프로젝트는 KT AIVLE SCHOOL에서 진행한 차량 파손 여부를 판별하는 모델을 만드는 프로젝트입니다.
 ## 데이터셋
@@ -59,14 +67,7 @@ Cutmix를 통해서 파손된 차량의 데이터셋이 증가하였고, test에
 <img width=600 src="https://user-images.githubusercontent.com/54027397/226890192-f5ee9858-c15f-4cd7-8cd4-4bfeeb52a3ba.png"/>
 <p/>
 
-## 11반 42조 맴버
-김윤종 : https://github.com/kyj098707
-<br>박경덕 : https://github.com/Ramdatech
-<br>황소정 : https://github.com/sora0319
-<br>김채원 : https://github.com/chaewon0824
-<br>강선후 : https://github.com/rkdwhdrjf
-<br>정정해 : https://github.com/JeongJeonghae
-<br>오승권 : https://github.com/loveand30
+
 
 ## Reference
 https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0
