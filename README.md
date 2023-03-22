@@ -74,3 +74,4 @@ https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0
 <br>https://arxiv.org/abs/1708.02002
 <br>https://github.com/mbsariyildiz/focal-loss.pytorch/blob/master/focalloss.py
 <br>https://velog.io/@qsdcfd/Baseline-of-Data-augmentation#cutmix-augmentation
+<br>https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=581
