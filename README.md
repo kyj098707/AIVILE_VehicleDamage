@@ -68,5 +68,10 @@ Cutmix를 통해서 파손된 차량의 데이터셋이 증가하였고, test에
 <br>정정해 : https://github.com/JeongJeonghae
 <br>오승권 : https://github.com/loveand30
 
-
-
+## Reference
+https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0
+https://arxiv.org/abs/1905.04899
+https://arxiv.org/pdf/1710.09412.pdf
+https://arxiv.org/abs/2010.11929
+https://arxiv.org/abs/1708.02002
+https://github.com/mbsariyildiz/focal-loss.pytorch/blob/master/focalloss.py
